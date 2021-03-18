@@ -1,2 +1,6 @@
 # GeonYeol.Ryu
-#real_coding #actual_coding #riot_games
+#Hi everyone!
+
+  + I'm student at CNU CSE
+  + currently intersted in web programming
+  + studying database
